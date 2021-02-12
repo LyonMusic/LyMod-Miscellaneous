@@ -10,7 +10,7 @@
 	"color" : "0.15 0.15 0.15",
 	"updates" : [
 		{
-			"identifier" : "lymodupdates",
+			"identifier" : "lymod_miscellaneous",
 			"host" : {
 				"meta" : "https://github.com/LyonMusic/LyMod-Miscellaneous/releases/download/main/meta.json"
 			}
