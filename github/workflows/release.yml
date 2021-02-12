@@ -42,7 +42,7 @@ jobs:
     - name: Hash mod and create mod meta file
       id: create_meta_file
       run: |
-         $(cat .\github\meta.json).Replace("59896f0d8b9571fe65b9e3316f23c85ee4886b41665cdaa7433d3e4c10fcd3a1", $(./github/hash.exe "./LyMod Miscellaneous").Substring(17)) > ./meta.json
+         $(cat .\github\meta.json).Replace("%HASH%", $(./github/hash.exe "./LyMod Miscellaneous").Substring(17)) > ./meta.json
     - name: Upload meta file to Release
       id: upload-meta-asset 
       uses: actions/upload-release-asset@v1
