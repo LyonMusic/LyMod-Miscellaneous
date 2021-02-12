@@ -4,7 +4,7 @@
 	"author" : "Lyon",
 	"contact" : "GitHub: github.com/LyonMusic, Reddit: /u/Lyon_Music"
 	"version" : "202",
-	"priority" : "1000",
+	"priority" : "1",
 	"blt_version" : 2,
 	"image" : "fps.png",
 	"color" : "0.15 0.15 0.15",
