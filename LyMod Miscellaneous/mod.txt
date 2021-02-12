@@ -3,13 +3,14 @@
 	"description" : "Miscellaneous",
 	"author" : "Lyon",
 	"contact" : "GitHub: github.com/LyonMusic, Reddit: /u/Lyon_Music"
-	"version" : "202",
-	"priority" : "1",
+	"version" : "202.2",
+	"priority" : "1000",
 	"blt_version" : 2,
 	"image" : "fps.png",
 	"color" : "0.15 0.15 0.15",
 	"updates" : [
 		{
+			"revision" : 202.2,
 			"identifier" : "lymod_miscellaneous",
 			"host" : {
 				"meta" : "https://github.com/LyonMusic/LyMod-Miscellaneous/releases/download/main/meta.json"
