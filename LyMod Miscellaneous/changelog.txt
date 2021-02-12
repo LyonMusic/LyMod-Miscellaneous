@@ -1,0 +1,28 @@
+Changelog
+
+v202 - 2021-02-11
+
+- 
+
+v199.950 - 2021-02-09
+
+- Minor changes, expected new features soon...
+
+v199.912 - 2020-05-23
+
+- The "loc" folder has been temporarily removed.
+- A "changelog.txt" has been added to check all mod updates.
+- Some small changes to mod.txt (contact added, description changed and mod priority added).
+
+v199.845 - 2020-05-22
+
+- Added a toggle keybind in the main menu.
+- [Issue #001] Keep giving trouble
+
+v199.4 [Fixed] - 2020-05-21
+
+- Added Russian Language.
+
+v199.4 - 2020-05-21
+
+- Initial release.
