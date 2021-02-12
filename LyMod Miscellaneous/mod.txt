@@ -12,7 +12,7 @@
 		{
 			"identifier" : "lymodupdates",
 			"host" : {
-				"meta" : ""
+				"meta" : "https://github.com/LyonMusic/LyMod-Miscellaneous/releases/download/main/LyMod.Miscellaneous.zip"
 			}
 		}
 	]
