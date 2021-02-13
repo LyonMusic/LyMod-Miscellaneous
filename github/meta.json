@@ -2,7 +2,7 @@
     {
         "ident" : "lymod_miscellaneous",
         "hash" : "%HASH%",
-        "patchnotes_url" : "https://github.com/LyonMusic/LyMod-Miscellaneous/commits/main",
+        "patchnotes_url" : "https://github.com/LyonMusic/LyMod-Miscellaneous/blob/main/patchnotes.html",
         "download_url" : "https://github.com/LyonMusic/LyMod-Miscellaneous/releases/download/main/LyMod.Miscellaneous.zip"
     }
 ]
