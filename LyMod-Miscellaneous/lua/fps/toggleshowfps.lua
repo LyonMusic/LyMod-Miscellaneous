@@ -1,1 +1,0 @@
-showFps = not showFps
