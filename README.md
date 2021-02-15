@@ -1,6 +1,6 @@
 # *LyMod Miscellaneous*
 
-**v1.0.1**
+**v1.1**
 ***- The image has been removed, it will have a change soon.***
 
 --------------------------------------------
