@@ -1,8 +1,8 @@
 # *LyMod Miscellaneous*
 
-**Pre-Release v1.3 Notes**
-- An optimization will be added to the lobbies which will make the videos in the background disappear for better loading (currently this implies that the feature to mute the contractors have problems, so, it will be released when I have a solution soon).
-
+**v1.3**
+- An optimization has been added to the lobbies that will make background videos disappear for better loading. 
+(This is part of a old mod maded by Luffy https://modworkshop.net/user/11)
 --------------------------------------------
 
 **v1.2**
